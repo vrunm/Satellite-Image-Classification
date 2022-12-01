@@ -1,4 +1,4 @@
-# Satellite-Image-Classification-
+# Satellite-Image-Classification
 Satellite image Classification Dataset-RSI-CB256 , This dataset has 4 different classes mixed from Sensors and google map snapshot.
 The objective is to predict the images into 4 classes: cloudy , desert , green_area , desert.
 The mobilenet v2 cnn architecture was fit for this data which gave an accuracy of 0.99.
