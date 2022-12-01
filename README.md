@@ -15,7 +15,7 @@ Also a CNN with :
 1 Dropout Layer
 </br>
 3 Dense Layer was implemented which gave an accuracy of 0.88.
-| Model       | Accuracy    | F1 Score      |
-| :---        |    :----:   |          ---: |
-| Baseline CNN    | 88%        | 81%  |
-| Mobilenetv2     | 88%      | 81% |
+| Model       | Accuracy    | 
+| :---        |    :----:   |  
+| Baseline CNN    | 90%      |
+| Mobilenetv2     | 99%      | 
