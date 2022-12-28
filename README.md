@@ -19,7 +19,7 @@ The dataset can be downloaded from [here]:(https://www.kaggle.com/datasets/mahmo
 
 #### InceptionV2:
 
-- The **InceptionV2** model was initialized with pre-trained ImageNet weights. Only the Dense layers were fine-tuned. Training the model with an **Adam optimizer with learning rate of 0.001** for **5 epochs** yielded an **Accuracy of 88.92%.
+- The **InceptionV2** model was initialized with pre-trained ImageNet weights. Only the Dense layers were fine-tuned. Training the model with an **Adam optimizer with learning rate of 0.001** for **5 epochs** yielded an **Accuracy of 88.92%.**
 
 #### EfficientNetB3:
 
