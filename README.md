@@ -1,6 +1,6 @@
 # Satellite-Image-Classification
 - Built a image classification model to predict the type of geographical area  that is being represented in the image.
-- Compared 3 different CNN architectures ie. a custom CNN, InceptionV2,   MobileNetV2 based on model performance on this dataset.
+- Compared 4 different CNN architectures ie. a custom CNN, InceptionV2,   MobileNetV2 , EfficientNetB3 based on model performance on this dataset.
 
 ## Data
 This dataset has 4 different classes mixed from sensors and google map snapshot.
@@ -20,6 +20,10 @@ The dataset can be downloaded from [here]:(https://www.kaggle.com/datasets/mahmo
 #### InceptionV2:
 
 - The **InceptionV2** model was initialized with pre-trained ImageNet weights. Only the Dense layers were fine-tuned. Training the model with an **Adam optimizer with learning rate of 0.001** for **5 epochs** yielded an **Accuracy of 88.92%.
+
+#### EfficientNetB3:
+
+- The **EfficientNetB3** model was initialized with pre-trained ImageNet weights and all the layers were fine-tuned. Training the model with an **Adam optimizer with learning rate of 0.001** for **5 epochs** yielded an **Accuracy of 86.72%**
 
 | Model       | Accuracy    | 
 | :---        |    :----:   |  
