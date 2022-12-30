@@ -3,10 +3,10 @@
 - Compared 4 different CNN architectures ie. a custom CNN, InceptionV2,   MobileNetV2 , EfficientNetB3 based on model performance on this dataset.
 
 ## Data
-This dataset has 4 different classes mixed from sensors and google map snapshot.
+This dataset has 4 different classes of satellite images taken from google maps.
 The objective is to predict the images into 4 classes: cloudy , desert , green_area , desert.
 
-The dataset can be downloaded from [here]:(https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification)
+The dataset can be downloaded from [here](https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification)
 
 ## Experiments
 #### MobileNetV2:
