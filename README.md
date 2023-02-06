@@ -1,5 +1,5 @@
 # Satellite-Image-Classification
-- Built an image classification model to predict four different types of geographical areas that are present in a satellite image.
+- Built an Image Classification model to predict the type of geographical area that is being represented in a satellite image.
 - Compared 4 different CNN architectures ie. a custom CNN, InceptionV2,   MobileNetV2 , EfficientNetB3 based on model performance on this dataset.
 
 ## Data
